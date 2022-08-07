@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ritika Bhatt</h1>
-<h3 align="center">I am currently in my Pre-Final Year of my Bachelor's. My specialisation is in Electronics but I'm more into developement especially the web one :p</h3>
+<h3 align="center">I am currently in my Final Year of my Bachelor's. My specialisation is Electronics & Instrumentation. I have keen interest in Data Structures and Algorithms and Web Development. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smily31&label=Profile%20views&color=0e75b6&style=flat" alt="smily31" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smily31" alt="smily31" /></a> </p>
 
-- 🔭 I’m currently working on **honing my skills**
 
-- 🌱 I’m currently learning **React and Node js**
 
 - 💬 Ask me about **Javascript and DSA**
 
