@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritika Bhatt</h1>
-<h3 align="center">I am currently in the Final Year of my Bachelor's. My specialization is Electronics & Instrumentation. I have keen on Web Development and love Data Structure and Algorithms.</h3>
+<h3 align="center">I am currently in the Final Year of my Bachelor's. My specialization is Electronics & Instrumentation. I have keen interest on Web Development and love Data Structure and Algorithms.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smily31&label=Profile%20views&color=0e75b6&style=flat" alt="smily31" /> </p>
 
